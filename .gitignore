@@ -1,5 +1,2 @@
-# Ignore build by-products
-obj
-
 # Ignore IDE files
 .vscode
